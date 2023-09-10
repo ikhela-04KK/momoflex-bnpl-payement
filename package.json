@@ -1,0 +1,18 @@
+{
+  "name": "momoflex",
+  "version": "1.0.0",
+  "description": "it's an financial app with integration of MoMo API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
