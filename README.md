@@ -25,6 +25,8 @@ MoMoFlex allows users to pay for purchases later, dividing payments into monthly
 
 ![image001](https://github.com/user-attachments/assets/bf9f0a88-c3ad-46f9-b205-a0ced5cd85db)
 
+![Liste des projets en compétition - MoMo Hackathon 2023](https://github.com/user-attachments/assets/00bf9e1a-e101-45ab-bd17-affedced0aa9)
+
 # Security and improvment
 [a76d05eintroduction.pdf](https://github.com/user-attachments/files/16828771/a76d05eintroduction.pdf)
 
@@ -32,4 +34,5 @@ MoMoFlex allows users to pay for purchases later, dividing payments into monthly
 # Link to design 
 
 [Fees - a financial app](https://www.figma.com/design/NLkXjb0uxXZNC9WWhXc9Th/MoMoFLEX---Transactional-Apps?node-id=424-1775&node-type=CANVAS&t=qWAYxxGKnDcUAh8l-0)
+
 
